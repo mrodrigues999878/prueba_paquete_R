@@ -1,0 +1,13 @@
+Package: sigTools
+Title: Herramientas SIG en R
+Authors@R: 
+    person("Marcos", "Rodrigues", , "first.last@example.com", role = c("aut", "cre"))
+Description: Conjunto de funciones que replican herramientas de geoproceso.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Version: 4.1.0
+Imports: 
+    dplyr,
+    sf
